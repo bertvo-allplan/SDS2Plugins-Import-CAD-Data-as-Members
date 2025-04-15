@@ -15,3 +15,7 @@ The member type and section should be exactly as defined in SDS2 (read the docum
  Once that opens (it can take a while), click the dropdown and pick Model -- Parametric.  Inside the big list you should
  find a tool called "Import CAD Data as Members".  Drag this onto your toolbar.
  Click OK and save the configuration overtop the old. 
+
+== Credits ==
+
+Developed by Bert Van Overmeir for Allplan. 
