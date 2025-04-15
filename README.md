@@ -19,3 +19,6 @@ The member type and section should be exactly as defined in SDS2 (read the docum
 == Credits ==
 
 Developed by Bert Van Overmeir for Allplan. 
+
+![image](https://github.com/user-attachments/assets/d9ac554a-71b6-4c15-88c3-9441f7a29916)
+
