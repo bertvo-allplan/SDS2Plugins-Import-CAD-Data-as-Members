@@ -3,7 +3,7 @@
 This plugin allows you to import any CAD (dwg/dxf) data into SDS2 and convert it to SDS2 Member data. 
 Currently lines and polylines are supported.
 The program reads a mapping file (can be opened from within the program) that maps either line layer or color to a member type.
-The member type and section should be exactly as defined in SDS2 (read the documentation in the mapping file)
+The member type and section should be exactly as defined in SDS2 (read the documentation in the mapping file).
 It is possible to realign workpoints that are misaligned in the CAD data. The algoritm works as follows:
 - find coordinates that are alike within tolerance (X,Y,Z)
 - check if in same spot some coordinates are already the same
