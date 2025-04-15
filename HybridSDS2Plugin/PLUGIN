@@ -1,0 +1,5 @@
+PYTHON3
+
+[Tool]
+Class=ImportAcadAsMembers
+Icon=icon.png

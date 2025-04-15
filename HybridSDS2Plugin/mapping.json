@@ -1,0 +1,28 @@
+// to add a new entry, always add map, name, profile and type
+// profile is the EXACT name of the profile in the profile catalog in SDS2
+// type is the type of the member in SDS2: Beam, Column, VBrace or HBrace
+// map can be bylayer or bycolor
+// if bylayer, name is the layer name in AutoCAD, it is not case sensitive
+// if bycolor, name is the RGB value of the color in AutoCAD, split by commas
+{
+  "mapping": [
+    {
+      "map": "bylayer",
+      "name": "assen",
+      "profile": "HE260A",
+      "type": "Beam"
+    },
+    {
+      "map": "bylayer",
+      "name": "default",
+      "profile": "IPE300",
+      "type": "Column"
+    },
+    {
+      "map": "bycolor",
+      "name": "0,0,0",
+      "profile": "HEA200",
+      "type": "Beam"
+    }
+  ]
+}
